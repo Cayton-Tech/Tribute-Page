@@ -9,8 +9,12 @@ body  {
     margin: auto;
 }
 
-#main {
+#img-div  {
     align-content: center;
+}
+
+p   {
+    text-align: center;
 }
 
 h1 {
