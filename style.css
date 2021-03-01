@@ -1,5 +1,4 @@
 body  {
-    align-content: center;
     background-color: #000000FF;
     color:#FFFFFFFF;
 }
@@ -10,4 +9,8 @@ body  {
     display: block;
 }
 
+#main {
+    display: flex;
+    align-content: center;
+}
 
