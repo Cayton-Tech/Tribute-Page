@@ -6,12 +6,11 @@ body  {
 #image  {
     max-width: 100%;
     height: auto;
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#image {
-    align-content: center;
-}
 
 figcaption  {
     text-align: center;
