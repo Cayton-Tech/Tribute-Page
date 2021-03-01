@@ -9,8 +9,12 @@ body  {
     margin: auto;
 }
 
-#img-div  {
+#image {
     align-content: center;
+}
+
+figcaption  {
+    text-align: center;
 }
 
 p   {
