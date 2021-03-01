@@ -1,7 +1,7 @@
 body  {
-    align: center;
-    background-colour: #000000FF;
-    colour:#FFFFFFFF;
+    align-content: center;
+    background-color: #000000FF;
+    color:#FFFFFFFF;
 }
 
 #image  {
